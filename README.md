@@ -1,6 +1,6 @@
-# Caedon's Descent into Madness
+# Descent into Madness
 
-**Caedon's Descent into Madness** is a 2.5D horror adventure game developed in Java, featuring a custom-built raycasting engine for pseudo-3D rendering. The game places players in a tense maze environment against a certain malevolent entity.
+**Descent into Madness** is a 2.5D horror adventure game developed in Java, featuring a custom-built raycasting engine for pseudo-3D rendering. The game places players in a tense maze environment against a certain malevolent entity.
 
 ## Features
 - Custom raycasting engine: Simulates a 3D perspective using real-time 2D ray projection techniques, inspired by first person shooters of the early 90's.
