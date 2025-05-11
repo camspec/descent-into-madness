@@ -128,14 +128,11 @@ public class Screen extends JPanel implements ActionListener {
 	}
 
 	private void loadAudio() {
-		AudioUtils.loadAudioFile("audio/music/Hereditary Soundtrack - 'Reborn' - Colin Stetson.wav", "menu", true);
 		AudioUtils.loadAudioFile("audio/sounds/menu_select.wav", "menu_select", false);
 		AudioUtils.loadAudioFile("audio/sounds/laugh.wav", "laugh", false);
 		AudioUtils.loadAudioFile("audio/music/Caedon't Stop Running.wav", "game", true);
 		AudioUtils.loadAudioFile("audio/sounds/death.wav", "death", false);
 		AudioUtils.loadAudioFile("audio/sounds/shutdown.wav", "shutdown", false);
-		AudioUtils.loadAudioFile("audio/music/As The World Caves In - Matt Maltese (Cover by Sarah Cothran).wav",
-				"credits", false);
 	}
 
 	@Override
