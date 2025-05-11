@@ -20,3 +20,17 @@ cd caedons-descent
 2. Compile the project using your preferred Java IDE or command-line tools.
 
 3. Run the main class to launch the game.
+
+## Screenshots
+
+<img src="https://github.com/camspec/caedons-descent/blob/daeb1e085bc9b624e2db8e5f2340b25fc2906517/screenshots/0.png" alt="drawing" width="400"/>
+<img src="https://github.com/camspec/caedons-descent/blob/daeb1e085bc9b624e2db8e5f2340b25fc2906517/screenshots/1.png" alt="drawing" width="300"/>
+<img src="https://github.com/camspec/caedons-descent/blob/daeb1e085bc9b624e2db8e5f2340b25fc2906517/screenshots/2.png" alt="drawing" width="400"/>
+<img src="https://github.com/camspec/caedons-descent/blob/daeb1e085bc9b624e2db8e5f2340b25fc2906517/screenshots/3.png" alt="drawing" width="300"/>
+<img src="https://github.com/camspec/caedons-descent/blob/daeb1e085bc9b624e2db8e5f2340b25fc2906517/screenshots/4.png" alt="drawing" width="300"/>
+![0](https://github.com/camspec/caedons-descent/blob/daeb1e085bc9b624e2db8e5f2340b25fc2906517/screenshots/0.png)
+![1](https://github.com/camspec/caedons-descent/blob/daeb1e085bc9b624e2db8e5f2340b25fc2906517/screenshots/1.png)
+![2](https://github.com/camspec/caedons-descent/blob/daeb1e085bc9b624e2db8e5f2340b25fc2906517/screenshots/2.png)
+![3](https://github.com/camspec/caedons-descent/blob/daeb1e085bc9b624e2db8e5f2340b25fc2906517/screenshots/3.png)
+![4](https://github.com/camspec/caedons-descent/blob/daeb1e085bc9b624e2db8e5f2340b25fc2906517/screenshots/4.png)
+
