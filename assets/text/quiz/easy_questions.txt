@@ -1,0 +1,75 @@
+What does DNA stand for?
+Dynamic nucleic assembly, Duoxynucleotide arrangement, Direct nucleotide access, Deoxyribonucleic acid
+3
+What galaxy do we live in?
+Centaurus A, Milky Way, Andromeda Galaxy, NGC 4414
+1
+What is the only even prime number?
+5, 456, 2, 4, 1, 89
+2
+What does USB stand for?
+Universal Serial Bus, Unified Signal Bus, Universal Storage Bus, Unified Serial Bridge, Universal Signal Buffer
+0
+How many holes in a polo?
+One, Two, Three, Four
+3
+If a Shiny Ditto transforms into a Pokémon, does it appear Shiny?
+Yes, No
+1
+Factor x^2 + 5x + 6.
+(x+1)(x+6), (x+4)(x+2), (x+6)(x+1), (x+2)(x+3), (x+3)(x+4)
+3
+Find the derivative of the function 3x^2 + 4x + 2.
+6x + 4, 3x + 4, 9x + 4, x^2 + 4x + 2, 3x^2 + 4x
+0
+If you roll a fair six-sided die, what is the probability of rolling a prime number?
+2/3, 1/6, 1/2, 1/3
+2
+What are the notes in an F diminished 7th chord?
+F Ab C, F Ab C Eb, F Ab Cb Ebb, F Ab Cb, F Ab Cb Ebb
+2
+What is the function of the mitochondria in a cell?
+Manufacturing new cells, Security system, Powerhouse, Entertainment center, f(x) = cos(x)
+2
+What is the purpose of a loop in programming?
+To tie knots in the code, Confuse the computer, Make the code look fancier, Execute a block of code repeatedly until a condition is met
+3
+In which European country is the city of Milan?
+Germany, Italy, France, Switzerland, Greece
+1
+What is the SI unit of speed?
+m/s, mph, ft/s, ly/m, m/h
+0
+In which year did World War II end?
+1943, 1947, 1945, 1950
+2
+What is the chemical symbol for Barium?
+Na, Sn, Be, Br, Ba, Sd, No
+4
+Which of the following is a unit of force?
+Volt, Watt, Newton, Joule
+2
+Who painted the "Mona Lisa"?
+Pablo Picasso, Michelangelo, Vincent van Gogh, Leonardo da Vinci
+3
+What is Caedon's last name?
+MacHaggis, McIntosh, O'Doon, MacTartan, O'Caledon, McThistle, McGriddle
+1
+How much money are you getting for answering this question correctly?
+$0, $10, $100, $1, $3, $9999
+0
+What is the worst-case time complexity of binary search in a sorted array?
+O(n), O(log n), O(n log n), O(n^2)
+1
+What is the primary neurotransmitter associated with pleasure and reward?
+Dopamine, Serotonin, Acetylcholine, GABA
+0
+What is this minigame called?
+Caedon's Descent into Madness, Quiz, QuizMinigame, Easy Simple Quiz!™
+3
+What is 0.9 repeating equal to?
+A number infinitely close to 1, 0.9, 1, 0, 0.9999999999, 0.0000001, A number infinitely far from 1
+2
+How many times does the digit "1" appear in the integers 1 to 20?
+13, 10, 9, 8, 12, 7, 14, 15, 16, 20, 0, 2, 3, 11
+4
