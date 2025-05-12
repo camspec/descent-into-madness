@@ -13,8 +13,8 @@ Note: Some graphics or audio have been removed from this repository due to copyr
 ## Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/camspec/caedons-descent.git
-cd caedons-descent
+git clone https://github.com/camspec/descent-into-madness.git
+cd descent-into-madness
 ```
 
 2. Compile the project using your preferred Java IDE or command-line tools.
