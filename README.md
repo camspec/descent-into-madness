@@ -5,7 +5,7 @@
 ## Features
 - Custom raycasting engine: Simulates a 3D perspective using real-time 2D ray projection techniques, inspired by first person shooters of the early 90's.
 - Image-based level parsing: The level is constructed by reading a maze layout from an image file, allowing for efficient design.
-- Custom soundtrack: main theme of the game was composed by me.
+- Custom soundtrack: Main theme of the game was composed by me.
 - Implemented A* pathfinding algorithm, collision detection, and textured walls.
 
 Note: Some graphics or audio have been removed from this repository due to copyright concerns.
